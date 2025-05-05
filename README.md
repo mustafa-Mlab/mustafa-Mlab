@@ -13,6 +13,9 @@ I’m a full-stack developer passionate about open-source, plugin development, a
 ### Fun Fact
 I love solving real-world problems with code!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-kamal-hossain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://mkhossain.xyz)
+
 <!--
 **mustafa-Mlab/mustafa-Mlab** is a _special_ ]] repository because its `README.md` (this file) appears on your GitHub profile.
 
