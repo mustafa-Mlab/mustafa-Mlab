@@ -6,12 +6,10 @@
 
 <br clear="both">
 
-<p align="center">Full Stack web developer, WordPress wizard</p>
+<p align="center">I’m a full-stack developer passionate about open-source, plugin development, and building tools.</p>
 
 ###
 
-### About Me
-I’m a full-stack developer passionate about open-source, plugin development, and building tools.
 
 ### Fun Fact
 I love solving real-world problems with code!
