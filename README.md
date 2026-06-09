@@ -1,73 +1,76 @@
-<br clear="both">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,40&height=220&section=header&text=Mustafa%20Kamal&fontSize=65&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
+</p>
 
-<h1 align="center">Welcome to Mustafa Kamal's Profile</h1>
+<!-- Animated Typing Subtitle -->
+<p align="center">
+  <a href="https://github.com/mustafa-Mlab">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;WordPress+%26+Laravel+Expert;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+### 👋 Hello and Welcome!
 
-<p align="center">I’m a full-stack developer passionate about open-source, plugin development, and building tools.</p>
+I’m a full-stack developer passionate about open-source, plugin development, and building high-performance web applications. I love solving real-world challenges with elegant, maintainable code.
 
-###
+* 🔭 **Currently focused on:** Advanced plugin architecture and open-source tooling.
+* ⚡ **Fun Fact:** I love solving real-world problems with code!
 
+---
 
-### Fun Fact
-I love solving real-world problems with code!
+### 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-Mlab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-Mlab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-Mlab&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <!-- CMS & E-commerce -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Magento-EE6C52?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" />
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+</p>
 
-###
+---
 
-<br clear="both">
+### 📊 GitHub Analytics
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="12" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="12" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="12" alt="magento logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="12" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="12" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="12" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="12" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="12" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="12" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="12" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="12" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="12" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="12" alt="vscode logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-Mlab&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-Mlab&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-Mlab&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-kamal-hossain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://mkhossain.xyz)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-Mlab&theme=radical&area=true&hide_border=true" height="300" width="100%" alt="Activity Graph" />
+</p>
 
-<!--
-**mustafa-Mlab/mustafa-Mlab** is a _special_ ]] repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/mustafa-kamal-hossain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mkhossain.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
