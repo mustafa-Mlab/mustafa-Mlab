@@ -70,7 +70,7 @@ I’m a full-stack developer passionate about open-source, plugin development, a
   <a href="https://www.linkedin.com/in/mustafa-kamal-hossain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mkhossain.xyz" target="_blank">
+  <a href="https://mkamalhossain.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
